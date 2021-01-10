@@ -3,6 +3,7 @@
 ```
 May the brute force be with you.
 ```
+[Kali Linux视频教程汇总](https://space.bilibili.com/29302915/favlist?fid=205129215&ftype=create)
 
 ### 密码破解
 
